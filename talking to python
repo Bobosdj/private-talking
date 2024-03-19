@@ -1,0 +1,6 @@
+hey, how_are_you_doing, bad, idk, tell_a_joke = "hello bo", "good and you", "ohw why", "wat can i do to cheer you up", “Ill call you later. Don't call me later, call me Dad”
+print(hey)
+print(how_are_you_doing)
+print(bad)
+print(idk)
+print(tell_a_joke)
